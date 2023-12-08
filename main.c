@@ -2,6 +2,8 @@
 #include "find_word.h"
 #include "sort.h"
 #include <stdio.h>
+
+//komentarz XDDDD
 int main(int argc, char **argv)
 {
 	if (argc == 1) {
